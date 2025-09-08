@@ -47,6 +47,8 @@ Anyway, enough chitchat, see below for the Cheat Sheet!
 |Select C4 parameter|**FX**+**C4**|
 |Storage mode|**Project**+power on device|
 |Enter scene mode|**Clip**+**Seq**|
+|Undo|**Exit**+**<**|
+|Redo|**Exit**+**>**|
 
 ## Sequence editing shortcuts
 
